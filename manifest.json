@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Play Mr Traffic Tom",
+  "description": "Play Mr:Traffic Tom",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Mr Traffic Tom",
+  "name": "Mr:Traffic Tom",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Mr Traffic Tom",
+  "short_name": "Mr:Traffic Tom",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Mr Traffic Tom",
+      "name": "Mr:Traffic Tom",
       "url": "",
       "description": ""
     }
